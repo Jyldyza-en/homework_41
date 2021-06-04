@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homework 41</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="homeFragment">Home page</string>
+    <string name="first_fragment">Info</string>
+    <string name="second_fragment">Tools</string>
+    <string name="item_home_fragment">Home</string>
+    <string name="image">image_nav_header</string>
+    <string name="header_name">Nobody</string>
+    <string name="email">nobody@android.com</string>
+</resources>
